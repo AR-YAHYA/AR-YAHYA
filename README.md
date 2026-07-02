@@ -4,7 +4,7 @@ I am a Full-Stack Developer and Computer Science student focused on building cle
 
 ### 🚀 What I Do
 - 💻 **Backend:** Laravel (PHP), RESTful APIs
-- 🎨 **Frontend:** Vue.js, Inertia.js, React, Bootstrap
+- 🎨 **Frontend:** Vue.js, Inertia.js, Bootstrap
 - 📊 **Other Interests:** Full-stack development architectures and Digital Marketing
 
 ### 🛠️ Tech Stack
